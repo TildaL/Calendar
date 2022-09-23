@@ -23,6 +23,10 @@ header {
     border-top-left-radius:25px;
 }
 
+header p {
+    font-size: 48px;
+}
+
 h1, header p {
     color: #fff;
 }
